@@ -1,4 +1,4 @@
-Unit test cases with Mockito - Basic hibernate Tutorial 
+Unit test cases with Mockito - Tutorial
 ==============================================
 
 **Mockito Application** will covers the integration of Mockito into JAVA application and it's usage in a very simple and easy manner.

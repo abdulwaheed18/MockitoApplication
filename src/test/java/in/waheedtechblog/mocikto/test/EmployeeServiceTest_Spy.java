@@ -1,6 +1,6 @@
 package in.waheedtechblog.mocikto.test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertNotNull;
 import static org.mockito.Mockito.spy;
 
 import java.util.Iterator;
@@ -11,11 +11,9 @@ import org.junit.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
-import org.mockito.Spy;
 
 import in.waheedtechblog.mockito.Employee;
 import in.waheedtechblog.mockito.EmployeeDao;
-import in.waheedtechblog.mockito.EmployeeService;
 import in.waheedtechblog.mockito.EmployeeServiceImpl;
 
 public class EmployeeServiceTest_Spy {
